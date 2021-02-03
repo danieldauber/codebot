@@ -10,7 +10,7 @@
     "require": {
         "php": ">=7.1",
         "danieldauber/facebook-bot-sdk": "1.*",
-        "laravel/framework": "5.4.*",
+        "laravel/framework": "6.20.*",
         "laravel/tinker": "~1.0",
         "league/flysystem-aws-s3-v3": "^1.0",
         "predis/predis": "^1.1"
